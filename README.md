@@ -9,7 +9,7 @@
 - 🌱 Aspiring Software Engineer.
 - 🔭 I'm currently learning web technologies as well as brushing up my problem solving skills. 
 - 🥅 2022 Goals: Contribute to Open Source projects as well as learn new things along the way.
-- ⚡ Fun Fact: I love playing cricket && basketball 🏀
+- ⚡ Fun Fact: I love playing cricket 🏏 && basketball 🏀
 
 ### Languages and Tools:
 
