@@ -18,7 +18,7 @@
 <img alt="VSCode" width="150px" height="35px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <br/>
 <img alt="Java" width="100px" height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="Cpp" width="100px" height="30px" src="https://img.shields.io/badge/Cpp-3776AB?style=for-the-badge&logo=cpp&logoColor=white" />
+<img alt="C++" width="100px" height="30px" src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white" />
 <img alt="HTML5" width="100px" height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" width="100px" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JS" width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
