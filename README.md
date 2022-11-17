@@ -2,10 +2,13 @@
 
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=" width="100"
+  <img src="https://giphy.com/embed/40DRc0W00UbgQ" width="100"
 </div>
 
 <!--
+https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=
+https://giphy.com/gifs/computer-future-40DRc0W00UbgQ
+
 **Saif-khan24/Saif-khan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
