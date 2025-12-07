@@ -6,9 +6,9 @@
 
 ### About me
 
-- 🌱 Aspiring Software Engineer.
-- 🔭 I'm currently learning web technologies as well as brushing up my problem solving skills. 
-- 🥅 2022 Goals: Contribute to Open Source projects as well as learn new things along the way.
+- 🌱 Software Engineer.
+- 🔭 I'm a full stack web and mobile app developer. 
+- 🥅 2025 Goals: Contribute to Open Source projects as well as learn new things along the way.
 - ⚡ Fun Fact: I love playing cricket 🏏 && basketball 🏀
 
 ### Languages and Tools:
