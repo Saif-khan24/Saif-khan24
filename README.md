@@ -12,8 +12,8 @@
 
 ### 📫 Connect & Explore
 
-&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedimranlink)  
-&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohamed-Imran-12/)
+&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-saif-khan-6b629617b/)  
+&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/khan_saifkhan_)
 
 
 
