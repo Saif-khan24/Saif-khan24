@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm Saif 👋
+## Hi there 👋 I'm Saif
 
 ![122](https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif)
 
@@ -28,12 +28,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/bootstrap-original.svg" alt="Boostrap" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/sass-original.svg" alt="SASS/SCSS" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Boostrap" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS/SCSS" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/typescript-original.svg" alt="TypeScript" width="50" height="50"/> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="50" height="50"/>
 </p>
@@ -56,18 +56,6 @@
 </p>
 <br/>  
 
-
-
-## 🏆 Github Status
-
-<br>
-
-<div>
-&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=saif-khan&count_private=true&show_icons=true&theme=algolia" width="48%" >&nbsp;&nbsp;&nbsp;
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=saif-khan&theme=algolia" width="48%" >
-</div>
-
-<br>
 
 ## Connect with me ✉
 
