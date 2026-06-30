@@ -5,8 +5,8 @@
 
 ### About me
 
-- 🌱 Software Engineer.
-- 🔭 I'm a full stack web and mobile app developer. 
+- 🌱 Senior Software Engineer.
+- 🔭 I'm a Full Stack Web(Java & Angular) and Mobile App Developer(React-Native). 
 - 🥅 2026 Goals: Contribute to Open Source projects as well as learn Android Development along the way.
 - ⚡ Fun Fact: I love playing cricket 🏏 && basketball 🏀
 
